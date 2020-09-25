@@ -13,9 +13,6 @@
     "member": {
         "loginId": "ohjang",
         "passWord": "7387ECF02490D22F6E6D98A8F0C638D683778B9D329C5081CE4DCAF8BF2E59B9", // ohjang1234!! sha256 암호화 
-        "passwordHint": {
-            "id": 1
-        },
         "sns": "None", // None, Kakao, Google, Facebook
         "name": "오장원",
         "birthDay": "930903",
@@ -28,6 +25,7 @@
         "email": "sda362002@gmail.com",
         "address": "서울시 대타구 대타로 대타길 대타"
     },
+    "passwordId" : 1, // 힌트 시퀀스 번호
     "answer": "안녕" // 힌트 답변
 }
 ```
