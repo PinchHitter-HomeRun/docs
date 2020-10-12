@@ -46,8 +46,8 @@
 - 찜하기 (미구현)
 `PUT /members/{memberId}/favorite`
 
-- 계정 찾기 (계정 찾는 조건)
-
+- 계정 찾기 (계정 찾는 조건 - 이름, 생년월일)
+`POST /customers/`
 
 - 비밀번호 수정
 `PUT /members/{loginId}/password`
@@ -61,6 +61,9 @@
 
 - 힌트 가져오기
 `GET /members/{memberId}/hint`
+
+- 사용 가능한 모든 힌트 가져오기
+`GET /members/hint`
 
 - 답변 확인
 `POST /members/{memberId}/answer`  
