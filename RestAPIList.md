@@ -11,7 +11,7 @@
 {
     "member": {
         "loginId": "ohjang@daeta.com",
-        "passWord": "7387ECF02490D22F6E6D98A8F0C638D683778B9D329C5081CE4DCAF8BF2E59B9", // ohjang1234!! sha256 암호화 
+        "passWord": "7387ECF02490D22F6E6D98A8F0C638D683778B9D329C5081CE4DCAF8BF2E59B9",
         "sns": "None", // None, Kakao, Google, Facebook
         "name": "오장원",
         "birthDay": "930903",
